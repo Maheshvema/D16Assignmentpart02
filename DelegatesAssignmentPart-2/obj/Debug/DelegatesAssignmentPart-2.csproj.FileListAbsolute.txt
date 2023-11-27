@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\bin\Debug\DelegatesAssignmentPart-2.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\bin\Debug\DelegatesAssignmentPart-2.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\bin\Debug\DelegatesAssignmentPart-2.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\obj\Debug\DelegatesAssignmentPart-2.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\obj\Debug\DelegatesAssignmentPart-2.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\obj\Debug\DelegatesAssignmentPart-2.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-16 Assignment part b\DelegatesAssignmentPart-2\DelegatesAssignmentPart-2\obj\Debug\DelegatesAssignmentPart-2.pdb
